@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Hari
 
-<!--
-**Harijohnson/Harijohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building scalable web applications.
 
-Here are some ideas to get you started:
+### Tech Stack
+- Backend: Django, Django REST Framework
+- Frontend: Next.js, React, JavaScript
+- Database: MySQL, SQL
+- Tools: Git, Linux, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+- Design and build backend systems with clean architecture
+- Develop performant and responsive frontend applications
+- Handle end-to-end development from API to deployment
+
+### Current Work
+- Full-stack Developer at Webchirpy
+- Building CSSVG — a tool to animate SVGs using pure CSS
+
+### Strengths
+- Strong backend fundamentals with practical frontend skills
+- Debugging and fixing production-level issues
+- Writing maintainable, scalable code
+
+### Projects
+- CSSVG — https://cssvg.com  
+  Animate SVGs and export clean CSS
+
+### Contact
+- GitHub: https://github.com/yourusername
+- Portfolio: https://cssvg.com
