@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Hari 👋</h1>
 
-<p align="center">Full-stack developer building scalable web applications.</p>
+<p align="center">A Full-stack Developer.</p>
 
 ---
 
 ### 🔨 Work
 
-- Building tools like **CSSVG** — SVG animation with pure CSS
+- Building Software
 
 ---
 
-### 🛠 Tech & Tools
+### 🛠 What i Do as a DEV
 
-<p align="center"><img src="./coffee.svg" width="28" height="28" alt="coffee" style="vertical-align:middle" />&nbsp;<img src="./plus.svg" width="28" height="28" alt="plus" style="vertical-align:middle" /> <img src="./code.svg" width="28" height="28" alt="arrow right" style="vertical-align:middle" />&nbsp; <img src="./arrow-right.svg" width="28" height="28" alt="arrow right" style="vertical-align:middle" />&nbsp;<img src="./trash.svg" width="28" height="28" alt="trash" style="vertical-align:middle" />&nbsp;<img src="./referesh.svg" width="28" height="28" alt="refresh" style="vertical-align:middle" />&nbsp;<img src="./settings.svg" width="28" height="28" alt="settings" style="vertical-align:middle" />&nbsp;<img src="./heart.svg" width="28" height="28" alt="heart" style="vertical-align:middle" />&nbsp;<img src="./share.svg" width="28" height="28" alt="share" style="vertical-align:middle" /></p>
+<p align="center"><img src="./coffee.svg" width="28" height="28" alt="coffee" style="vertical-align:middle" />&nbsp;<img src="./plus.svg" width="28" height="28" alt="plus" style="vertical-align:middle" /> <img src="./code.svg" width="28" height="28" alt="arrow right" style="vertical-align:middle" />&nbsp; <img src="./arrow-right.svg" width="28" height="28" alt="arrow right" style="vertical-align:middle" />&nbsp;<img src="./trash.svg" width="28" height="28" alt="trash" style="vertical-align:middle" />&nbsp;<img src="./referesh.svg" width="28" height="28" alt="refresh" style="vertical-align:middle" />&nbsp;<img src="./settings.svg" width="28" height="28" alt="settings" style="vertical-align:middle" />&nbsp;<img src="./heart.svg" width="28" height="28" alt="heart" style="vertical-align:middle" />&nbsp; <img src="./arrow-right.svg" width="28" height="28" alt="arrow right" style="vertical-align:middle" />&nbsp; <img src="./share.svg" width="28" height="28" alt="share" style="vertical-align:middle" /></p>
 
 ---
 
