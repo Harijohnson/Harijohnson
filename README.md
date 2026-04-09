@@ -19,7 +19,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harijohnson&show_icons=true&theme=default&hide_border=true" alt="Hari's GitHub stats" />
+  <img src="https://creator.cssvg.com/" alt="Hari's GitHub stats" />
 </p>
 
 <p align="center">
