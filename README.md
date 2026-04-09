@@ -19,10 +19,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://creator.cssvg.com/" alt="Hari's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harijohnson&hide_border=true" alt="GitHub streak" />
 </p>
 
