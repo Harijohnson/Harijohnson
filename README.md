@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hari 👋</h1>
+<h1 align="center">Hi, I'm Hari </h1>
 
 <p align="center">I own a repo</p>
 
